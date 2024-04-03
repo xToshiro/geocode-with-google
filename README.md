@@ -1,5 +1,5 @@
 # geocode-with-google
-
+# v1
 # Automated Geocoding with Selenium and Pandas
 
 This project automates the process of geocoding addresses using Google Maps through the Selenium WebDriver. It reads addresses from an Excel spreadsheet, queries Google Maps to retrieve the latitude and longitude for each address, and updates the spreadsheet with these coordinates. Additionally, the project utilizes a caching mechanism to speed up the process by avoiding repeated queries for the same address, and logs the process for monitoring and debugging purposes.

@@ -1,3 +1,6 @@
+# Coded by Jairo Ivo
+# Talk is cheap. Show me the code. ― Linus Torvalds
+
 # Import necessary libraries
 import pandas as pd
 from selenium import webdriver
