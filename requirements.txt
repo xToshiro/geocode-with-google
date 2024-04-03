@@ -1,0 +1,4 @@
+selenium>=3.141.0
+pandas>=1.2.0
+webdriver-manager>=3.4.2
+tqdm>=4.59.0
