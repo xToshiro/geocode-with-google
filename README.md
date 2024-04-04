@@ -1,8 +1,14 @@
 # geocode-with-google
-# v1
-# Automated Geocoding with Selenium and Pandas
+## v1.5
+### Automated Geocoding with Selenium and Pandas
 
-This project automates the process of geocoding addresses using Google Maps through the Selenium WebDriver. It reads addresses from an Excel spreadsheet, queries Google Maps to retrieve the latitude and longitude for each address, and updates the spreadsheet with these coordinates. Additionally, the project utilizes a caching mechanism to speed up the process by avoiding repeated queries for the same address, and logs the process for monitoring and debugging purposes.
+This project automates the process of geocoding addresses using Google Maps through the Selenium WebDriver. It reads addresses from an Excel spreadsheet, queries Google Maps to retrieve the latitude and longitude for each address, and updates the spreadsheet with these coordinates. Additionally, the project utilizes a caching mechanism to speed up the process by avoiding repeated queries for the same address, and logs the process for monitoring and debugging purposes. Version 1.5 introduces optimizations and improvements for better performance and reliability.
+
+#### What's New in v1.5
+
+- **Optimized Selenium WebDriver Loading**: Reuses an existing WebDriver session if available, speeding up the initialization process.
+- **Error Handling and Retries**: Implements retry logic in the geocoding function to handle temporary failures, making the script more robust against errors.
+- **Improved Element Waiting with Selenium**: Replaces fixed time waits with explicit waits, improving the reliability of web page interactions.
 
 ## Features
 
@@ -10,6 +16,8 @@ This project automates the process of geocoding addresses using Google Maps thro
 - **Pandas**: Manages and updates Excel spreadsheets.
 - **Caching**: Reduces the number of queries to Google Maps by caching addresses.
 - **Logging**: Provides a log file of the geocoding process for troubleshooting.
+- **Error Handling and Retries**: Enhances stability by retrying failed geocode fetches.
+- **Optimized WebDriver Management**: Increases efficiency by reusing the WebDriver session.
 
 ## Requirements
 
