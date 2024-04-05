@@ -4,6 +4,8 @@
 
 This project enhances the process of automated geocoding by incorporating a graphical user interface (GUI), allowing for an interactive and user-friendly experience. Building upon the capabilities introduced in version 1.5, version 2.0 integrates a Tkinter-based interface to select input files and columns for geocoding directly through the GUI. It continues to use Google Maps via Selenium WebDriver for fetching latitude and longitude data for addresses found in an Excel spreadsheet. This version also maintains the caching mechanism to avoid redundant queries and includes detailed logging for monitoring and troubleshooting.
 
+![Interface Preview](interface-preview.png)
+
 #### What's New in v2.0
 
 - **Tkinter GUI**: Introduces a graphical user interface for enhanced user interaction, making it easier to select input files and specify columns for address data.
