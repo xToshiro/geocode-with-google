@@ -1,0 +1,842 @@
+{
+    "Avenida Godofredo Maciel s/n Maraponga 60710-903": {
+        "latitude": "-3.8044711",
+        "longitude": "-38.572465"
+    },
+    "Rua Manoel Castelo Branco s/n Messejana 60840-015": {
+        "latitude": "-3.8331771",
+        "longitude": "-38.4874891"
+    },
+    "Rua Canuto de Aguiar 1300 Varjota 60160-120": {
+        "latitude": "-3.7322789",
+        "longitude": "-38.4911884"
+    },
+    "Avenida Miguel Dias 200 Guararapes 60810-160": {
+        "latitude": "-3.7592843",
+        "longitude": "-38.4884916"
+    },
+    "Avenida Edilson Brasil Soares 920 Edson Queiroz 60821-775": {
+        "latitude": "-3.7894961",
+        "longitude": "-38.4773376"
+    },
+    "Avenida Francisco S\u00e1 s/n Jacarecanga 60010-450": {
+        "latitude": "-3.713295",
+        "longitude": "-38.565805"
+    },
+    "Rua Senador Paulo Pessoa 673 Lago Jacarey 60822-200": {
+        "latitude": "-3.8027015",
+        "longitude": "-38.488175"
+    },
+    "Avenida Bernardo Manuel 10970 Mondubim 60741-600": {
+        "latitude": "-3.815522",
+        "longitude": "-38.5567222"
+    },
+    "Rua Rosa Cruz s/n Maraponga 60711-735": {
+        "latitude": "-3.7980666",
+        "longitude": "-38.5694675"
+    },
+    "Avenida Cearenses s/n Presidente Kennedy 60355-504": {
+        "latitude": "-3.7299268",
+        "longitude": "-38.5671131"
+    },
+    "Avenida J\u00falio Ventura s/n Aldeota 60140-230": {
+        "latitude": "-3.7395797",
+        "longitude": "-38.5071603"
+    },
+    "Avenida Washigton Soares s/n Edson Queiroz 60811-341": {
+        "latitude": "-3.8019547",
+        "longitude": "-38.4794868"
+    },
+    "Avenida Bar\u00e3o de Studart s/n Aldeota 60120-001": {
+        "latitude": "-3.7381265",
+        "longitude": "-38.5076926"
+    },
+    "Avenida da Saudade s/n Passar\u00e9 60861-330": {
+        "latitude": "-3.8160621",
+        "longitude": "-38.5361605"
+    },
+    "Avenida dos Expedicion\u00e1rios s/n Mondubim 60761-225": {
+        "latitude": "-3.7573507",
+        "longitude": "-38.5388551"
+    },
+    "Avenida Desembargador Manoel Sales de Andrade s/n Luciano Cavalcante 60810-195": {
+        "latitude": "-3.7322752",
+        "longitude": "-38.6727936"
+    },
+    "Rua Cel. Matos Belo s/n Messejana 60841-240": {
+        "latitude": "-3.8246259",
+        "longitude": "-38.4909521"
+    },
+    "Rua Alberto J\u00fanior 100 Edson Queiroz 60811-697": {
+        "latitude": "-3.7756152",
+        "longitude": "-38.4790888"
+    },
+    "Rua da Saudade s/n Passar\u00e9 60861-330": {
+        "latitude": "-3.79176",
+        "longitude": "-38.5885268"
+    },
+    "Rua das Aroeiras s/n Passar\u00e9 60743-820": {
+        "latitude": "-3.7649875",
+        "longitude": "-38.5869402"
+    },
+    "Rua Paranjana s/n Itaperi 60740-010": {
+        "latitude": "-3.7801657",
+        "longitude": "-38.5598546"
+    },
+    "Av. I 845 Conjunto Cear\u00e1 60533-671": {
+        "latitude": "-3.7725434",
+        "longitude": "-38.5972707"
+    },
+    "Rua Jos\u00e9 Meneleu s/n Maraponga 60714-040": {
+        "latitude": "-3.7838122",
+        "longitude": "-38.5603561"
+    },
+    "Rua Vicente de Castro s/n Luciano Cavalcante 60813-540": {
+        "latitude": "-3.7461441",
+        "longitude": "-38.4774463"
+    },
+    "Rua Padre Guerra s/n Pici 60455-365": {
+        "latitude": "-3.7387074",
+        "longitude": "-38.5566469"
+    },
+    "Rua Engenheiro Paulo Cesar Barbosa s/n Edson Queiroz 60811-750": {
+        "latitude": "-3.7752362",
+        "longitude": "-38.4764775"
+    },
+    "Rua Vitoriano Borges 387 Serrinha 60741-370": {
+        "latitude": "-3.7817209",
+        "longitude": "-38.5513626"
+    },
+    "Rua Paulo Sanford s/n Edson Queiroz 60834-422": {
+        "latitude": "-3.7878041",
+        "longitude": "-38.474985"
+    },
+    "Rua Diamante s/n Maraponga 60868-190": {
+        "latitude": "-3.8214672",
+        "longitude": "-38.5244696"
+    },
+    "Avenida Os\u00f3rio de Paiva s/n Siqueira 60720-015": {
+        "latitude": "-3.7975027",
+        "longitude": "-38.5949496"
+    },
+    "Rua Pen\u00e1polis s/n Messejana 60871-130": {
+        "latitude": "-3.8377304",
+        "longitude": "-38.4983526"
+    },
+    "Rua Jos\u00e9 da Fran\u00e7a Cabral 752 Boa Vista 60867-580": {
+        "latitude": "-3.8073386",
+        "longitude": "-38.5183467"
+    },
+    "Rua Padre Severiano s/n Messejana 60871-565": {
+        "latitude": "-3.8348376",
+        "longitude": "-38.4907612"
+    },
+    "Rua SDO s/n Cambeba 60822-305": {
+        "latitude": "-3.83145",
+        "longitude": "-38.54868"
+    },
+    "Rua Salvador Correia de S\u00e1 s/n Sapiranga 60833-183": {
+        "latitude": "-3.7970107",
+        "longitude": "-38.4747091"
+    },
+    "Rua Clodoaldo Arruda 320 Cambeba 60830-650": {
+        "latitude": "-3.8128341",
+        "longitude": "-38.4815532"
+    },
+    "Avenida Washigton Soares 2077 Edson Queiroz 60830-641": {
+        "latitude": "-3.7770962",
+        "longitude": "-38.4814732"
+    },
+    "Rua Engenheiro Antonio Ferreira Antero s/n Parque Manibura 60821-765": {
+        "latitude": "-3.7883561",
+        "longitude": "-38.48315"
+    },
+    "Avenida Edilson Brasil Soares 151 Parque Manibura 60834-005": {
+        "latitude": "-3.7895503",
+        "longitude": "-38.4844584"
+    },
+    "Avenida Atilano de Moura s/n Guararapes 60810-180": {
+        "latitude": "-3.7613629",
+        "longitude": "-38.4905091"
+    },
+    "Avenida Frei Cirilo s/n Messejana 60840-285": {
+        "latitude": "-3.8161503",
+        "longitude": "-38.4979833"
+    },
+    "Rua Eliseu Ori\u00e1 1185 Sapiranga 60833-165": {
+        "latitude": "-3.798805",
+        "longitude": "-38.476982"
+    },
+    "Avenida Alberto Craveiro 2222 Castel\u00e3o 60861-212": {
+        "latitude": "-3.7971111",
+        "longitude": "-38.5199507"
+    },
+    "Avenida Maestro Lisboa s/n Lagoa Redonda 60832-400": {
+        "latitude": "-3.8077861",
+        "longitude": "-38.4644437"
+    },
+    "Avenida Viena Weyne 780 Cambeba 60822-180": {
+        "latitude": "-3.8015914",
+        "longitude": "-38.4873535"
+    },
+    "Rua 07 359 Mondubim 60752-370": {
+        "latitude": "-3.818678",
+        "longitude": "-38.5721858"
+    },
+    "Rua Ernesto \u00cdgel s/n Porto do Mucuripe 60180-425": {
+        "latitude": "-3.7152951",
+        "longitude": "-38.4662737"
+    },
+    "Rua Raimundo Esteves 342 Praia do futuro 60182-330": {
+        "latitude": "-3.7347271",
+        "longitude": "-38.4583388"
+    },
+    "Rua Jo\u00e3o Alves Albuquerque s/n Parque Manibura 60821-730": {
+        "latitude": "-3.7943284",
+        "longitude": "-38.4818973"
+    },
+    "Avenida Godofredo Maciel 3374 Mondubim 60710-684": {
+        "latitude": "-3.8046741",
+        "longitude": "-38.572692"
+    },
+    "Avenida Dioguinho s/n Praia do futuro 60183-707": {
+        "latitude": "-3.753054",
+        "longitude": "-38.4473673"
+    },
+    "Rua S\u00e3o Jo\u00e3o Del Rey s/n Sapiranga 60833-285": {
+        "latitude": "-3.7937832",
+        "longitude": "-38.4698744"
+    },
+    "Rua Benvinda 133 Passar\u00e9 60861-340": {
+        "latitude": "-3.8076589",
+        "longitude": "-38.5274306"
+    },
+    "Avenida Desembargador Arthur Bernardes s/n Sapiranga 60812-750": {
+        "latitude": "-3.8058537",
+        "longitude": "-38.4705464"
+    },
+    "Avenida Capit\u00e3o Hugo Bezerra 333 Barroso 60862-730": {
+        "latitude": "-3.8211537",
+        "longitude": "-38.5067066"
+    },
+    "Rua Coronel Chic\u00f3 Alves s/n Passar\u00e9 60744-050": {
+        "latitude": "-3.8071856",
+        "longitude": "-38.5265093"
+    },
+    "Rua Dois s/n Cambeba 60841-555": {
+        "latitude": "-23.580364",
+        "longitude": "-46.6806543"
+    },
+    "Rua Passeio dos Cajueiros s/n Manoel Dias Branco 60191-665": {
+        "latitude": "-3.7557744",
+        "longitude": "-38.4694574"
+    },
+    "Rua Passeio dos Cajueiros s/n Manoel Dias Branco 60191-666": {
+        "latitude": "-3.7557744",
+        "longitude": "-38.4694574"
+    },
+    "Rua Passeio dos Cajueiros s/n Manoel Dias Branco 60191-667": {
+        "latitude": "-3.7557744",
+        "longitude": "-38.4694574"
+    },
+    "Rua Recanto Verde s/n Jangurussu 60870-520": {
+        "latitude": "-3.8411786",
+        "longitude": "-38.5126843"
+    },
+    "Rua Flor\u00eancio Fontenele s/n Jangurussu 60865-000": {
+        "latitude": "-3.8329417",
+        "longitude": "-38.507368"
+    },
+    "Rua Generoso Fran\u00e7a s/n Paupina 60874-350": {
+        "latitude": -3.8739515,
+        "longitude": -38.5036633
+    },
+    "Rua Cristiane Otoni s/n Mondubim 60761-420": {
+        "latitude": -3.8136579,
+        "longitude": -38.5597945
+    },
+    "Rua Vereadora Z\u00e9lia Correia de Sousa s/n Mondubim 60761-515": {
+        "latitude": -3.8155992,
+        "longitude": -38.5580367
+    },
+    "Rua Monte L\u00edbano s/n Mondubim 60762-376": {
+        "latitude": -3.8262274,
+        "longitude": -38.5631478
+    },
+    "Rodovia Quarto Anel Vi\u00e1rio s/n Novo Mondubim 60874-401": {
+        "latitude": -3.8448021,
+        "longitude": -38.5786305
+    },
+    "Rua Dona Lourdes s/n Bom Jardim 60731-531": {
+        "latitude": -3.6935372,
+        "longitude": -38.6187567
+    },
+    "Rua Ant\u00f4nio Bandeira 260 Jacarecanga 60182-301": {
+        "latitude": -3.723241,
+        "longitude": -38.5444701
+    },
+    "Rua Presidente Prudente s/n Ant\u00f4nio Bezerra 60352-330": {
+        "latitude": -21.9635147,
+        "longitude": -51.3537843
+    },
+    "Rua  Edno Alves de Oliveira 170 Castel\u00e3o 60867-550": {
+        "latitude": -3.8022325,
+        "longitude": -38.5172558
+    },
+    "Rua Julio C\u00e9sar 178 Benfica 60020-080": {
+        "latitude": -3.746565,
+        "longitude": -38.5394965
+    },
+    "Avenida Aguanambi 1370 Bairro de F\u00e1tima 60055-402": {
+        "latitude": -3.7484472,
+        "longitude": -38.5244385
+    },
+    "Rua Raimundo Matias s/n Pedras 60874-040": {
+        "latitude": -3.8872541,
+        "longitude": -38.5110837
+    },
+    "Rua Joaquim Em\u00eddio de Castro s/n Parque Manibura 60821 -575": {
+        "latitude": -3.7927994,
+        "longitude": -38.4909966
+    },
+    "Rua Dr. Francisco Matos s/n Papicu 60176-135": {
+        "latitude": -3.745718,
+        "longitude": -38.4697804
+    },
+    "Rua Cleiton Hel\u00e1dio Pimenta 160 Jardim das Oliveiras 60821-410": {
+        "latitude": -3.7838844,
+        "longitude": -38.4958546
+    },
+    "Avenida Oliveira Paiva 2621 Cidade dos Funcion\u00e1rios 60822-164": {
+        "latitude": -3.7956642,
+        "longitude": -38.4830622
+    },
+    "Rua Jo\u00e3o Regino 456 Parque Manibura 60821-780": {
+        "latitude": -3.7914034,
+        "longitude": -38.4829487
+    },
+    "Rua Am\u00e2ncio Pereira s/n Messejana 60861-770": {
+        "latitude": -3.8147273,
+        "longitude": -38.5228357
+    },
+    "Rua M\u00e1rio Alencar Araripe 1650 \u00c1gua Fria 60830-025": {
+        "latitude": -3.8034432,
+        "longitude": -38.4776924
+    },
+    "Rua Ciro Monteiro 300 Cidade dos Funcion\u00e1rios 60822-164": {
+        "latitude": -3.8027463,
+        "longitude": -38.4805855
+    },
+    "Rua Jorge de Carvalho 148 Lago Jacarey 60822-180": {
+        "latitude": -3.8005976,
+        "longitude": -38.4905195
+    },
+    "Rua Valter Porto 207 Lago Jacarey 60822-180": {
+        "latitude": -3.8025037,
+        "longitude": -38.4929791
+    },
+    "Rua Viena Weyne 410 Lago Jacarey 60822-180": {
+        "latitude": -3.8015689,
+        "longitude": -38.4908029
+    },
+    "Rua  Capit\u00e3o Hugo Bezerra 373 Barroso 60862-730": {
+        "latitude": -3.8211301,
+        "longitude": -38.5072316
+    },
+    "Rua Salvador Correia de S\u00e1 30 \u00c1gua Fria 60833-183": {
+        "latitude": -3.7893064,
+        "longitude": -38.4754572
+    },
+    "Rua M\u00e1ximo Linhares 750 Lago Jacarey 60822-482": {
+        "latitude": -3.7991182,
+        "longitude": -38.4906928
+    },
+    "Rua Alberto Craveiro 4949 Castel\u00e3o 60861-635": {
+        "latitude": -3.8097291,
+        "longitude": -38.5267933
+    },
+    "Rua Luiz Gir\u00e3o s/n S\u00edtio Carrapicho 60822-160": {
+        "latitude": -3.844257,
+        "longitude": -38.5776953
+    },
+    "Rua Vereador Pedro Paulo s/n Parque Manibura 60821-716": {
+        "latitude": -3.7870562,
+        "longitude": -38.4882001
+    },
+    "Rua Augusto Calheiros 740 Messejana 60842-100": {
+        "latitude": -3.8272632,
+        "longitude": -38.506133
+    },
+    "Rua 10 s/n Lago Jacarey 60821-300": {
+        "latitude": -3.7482735,
+        "longitude": -38.6558088
+    },
+    "Rua Mucambinho 95 Barroso 60863-255": {
+        "latitude": -3.8269497,
+        "longitude": -38.5061379
+    },
+    "Rua Professor Solon Farias 1440 Alagadi\u00e7o Novo 60833-510": {
+        "latitude": -3.8009224,
+        "longitude": -38.4761997
+    },
+    "Rua Lidia Br\u00edgido 284 Parque Manibura 60821-800": {
+        "latitude": -3.7904127,
+        "longitude": -38.4846843
+    },
+    "Avenida Prudente Brasil s/n Passar\u00e9 60743-760": {
+        "latitude": -3.8083697,
+        "longitude": -38.5340318
+    },
+    "Rua Juraci Magalh\u00e3es 810 Edson Queiroz 60834-225": {
+        "latitude": -3.7860603,
+        "longitude": -38.46156
+    },
+    "Rua das Oiticicas s/n Passar\u00e9 60822-180": {
+        "latitude": -3.7851537,
+        "longitude": -38.5913589
+    },
+    "Avenida Viena Weyne s/n Lago Jacarey 60822-180": {
+        "latitude": -3.8013383,
+        "longitude": -38.4889606
+    },
+    "Rua Solon Farias 109 Lago Jacarey 60833-510": {
+        "latitude": -3.8037827,
+        "longitude": -38.4865871
+    },
+    "Rua Herm\u00ednio de Castro s/n Cidade dos Funcion\u00e1rios 60821-825": {
+        "latitude": -3.7933998,
+        "longitude": -38.4864957
+    },
+    "Rua Vicente Lopes 475 Cidade dos Funcion\u00e1rios 60822-104": {
+        "latitude": -3.7904855,
+        "longitude": -38.4947866
+    },
+    "Rua Senador Correia de S\u00e1 1500 Sapiranga 60833-540": {
+        "latitude": -3.8021106,
+        "longitude": -38.474458
+    },
+    "Rua Padre Pedro de Alencar 201 Messejana 60840-280": {
+        "latitude": -3.8295023,
+        "longitude": -38.4937537
+    },
+    "Rua Solon Farias 145 \u00c1gua Fria 60833-510": {
+        "latitude": -3.788747,
+        "longitude": -38.4769458
+    },
+    "Rua Rafael Tobias 1000 Sapiranga 60833-680": {
+        "latitude": -3.7968741,
+        "longitude": -38.4724307
+    },
+    "Rua Maria Bastos 101 Lagoa Redonda 60832-580": {
+        "latitude": -3.8083395,
+        "longitude": -38.4594294
+    },
+    "Rua Maria Bastos 111 Lagoa Redonda 60832-580": {
+        "latitude": -3.8084415,
+        "longitude": -38.4595095
+    },
+    "Avenida Leal Lima Verde 1411 Sapiranga 60830-055": {
+        "latitude": -3.8024958,
+        "longitude": -38.4749194
+    },
+    "Rua Raimundo Tib\u00farcio 565 \u00c1gua Fria 60833-520": {
+        "latitude": -3.7932098,
+        "longitude": -38.4730982
+    },
+    "Avenida Oliveira Paiva 2565 Cidade dos Funcion\u00e1rios 60821-802": {
+        "latitude": -3.7957847,
+        "longitude": -38.4834934
+    },
+    "Rua Pedro Hermano de Vasconcelos 190 Cidade dos Funcion\u00e1rios 60824-055": {
+        "latitude": -3.8007183,
+        "longitude": -38.4960096
+    },
+    "Rua M\u00e1ximo Linhares 299 Lago Jacarey 60822-390": {
+        "latitude": -3.7983684,
+        "longitude": -38.4930167
+    },
+    "Rua Lea Pompeu s/n Jardim das Oliveiras 60821-490": {
+        "latitude": -3.785543,
+        "longitude": -38.4963054
+    },
+    "Rua Francisco Paracampos 50 Cambeba 60822-255": {
+        "latitude": -3.8008335,
+        "longitude": -38.4803206
+    },
+    "Rua Francisco Paracampos 40 Cambeba 60822-255": {
+        "latitude": -3.8005268,
+        "longitude": -38.4825815
+    },
+    "Rua Margarida de Queiroz 450 Cidade dos Funcion\u00e1rios 60864-245": {
+        "latitude": -3.7942973,
+        "longitude": -38.5041298
+    },
+    "Avenida Presidente Artur Bernardes 3515 Alagadi\u00e7o Novo 60833-201": {
+        "latitude": -3.802052,
+        "longitude": -38.4708056
+    },
+    "Rua Professor Aloisio Barros Leal 72 Parque Manibura 60822-065": {
+        "latitude": -3.7873759,
+        "longitude": -38.4918803
+    },
+    "Rua Sandra Gentil s/n \u00c1gua Fria 60833-073": {
+        "latitude": -3.7935025,
+        "longitude": -38.4690494
+    },
+    "Rua Gardenia s/n Messejana 60871-540": {
+        "latitude": -3.8385247,
+        "longitude": -38.4909002
+    },
+    "Avenida Washigton Soares s/n \u00c1gua Fria 60830-641": {
+        "latitude": -3.8019547,
+        "longitude": -38.4794868
+    },
+    "Rua 03 s/n Bairro de F\u00e1tima 60055-305": {
+        "latitude": -3.7726201,
+        "longitude": -38.6023748
+    },
+    "Rua Laura Bezerra s/n Lagoa Redonda 60832-820": {
+        "latitude": -3.8087831,
+        "longitude": -38.4602958
+    },
+    "Rua Padre Pedro de Alencar s/n Messejana 60840-280": {
+        "latitude": -3.8395788,
+        "longitude": -38.4942966
+    },
+    "Rua Valdemar de Alcantara s/n Barroso 60863-345": {
+        "latitude": -27.6554539,
+        "longitude": -51.0826116
+    },
+    "Rua A s/n Passar\u00e9 60867-270": {
+        "latitude": -3.7716821,
+        "longitude": -38.6809397
+    },
+    "Rua Marvin 217 Parque Manibura 60821-790": {
+        "latitude": -3.788982,
+        "longitude": -38.4837897
+    },
+    "Rua J\u00fanior Rocha 536 Parque Manibura 60821-790": {
+        "latitude": -3.7895056,
+        "longitude": -38.4876982
+    },
+    "Rua J\u00fanior Rocha 546 Parque Manibura 60821-790": {
+        "latitude": -3.7895911,
+        "longitude": -38.4878264
+    },
+    "Rua Rafael Tobias 1006 Sapiranga 60833-196": {
+        "latitude": -3.7969356,
+        "longitude": -38.4724243
+    },
+    "Rua Dem\u00f3stenes Carvalho 1514 \u00c1gua Fria 60320-440": {
+        "latitude": -3.7260507,
+        "longitude": -38.5590938
+    },
+    "Rua das Carna\u00fabas s/n Passar\u00e9 60743-780": {
+        "latitude": -3.7832087,
+        "longitude": -38.6012775
+    },
+    "Rua Pl\u00ednio Salgado s/n Lago Jacarey 60822-230": {
+        "latitude": -3.8022522,
+        "longitude": -38.4860963
+    },
+    "Rua Raul Souza Gir\u00e3o s/n Lago Jacarey 60822-332": {
+        "latitude": -3.8026093,
+        "longitude": -38.4862777
+    },
+    "Rua Pl\u00ednio Salgado 55 Lago Jacarey 60822-230": {
+        "latitude": -3.8025212,
+        "longitude": -38.4859984
+    },
+    "Rua Neud\u00e9lia Monte s/n Sapiranga 60830-135": {
+        "latitude": -3.8026673,
+        "longitude": -38.472544
+    },
+    "Rua M\u00e1rio Alencar Araripe 1779 Alagadi\u00e7o Novo 60833-500": {
+        "latitude": -3.8041211,
+        "longitude": -38.4773342
+    },
+    "Rua Esmerino Parente s/n Cambeba 60822-385": {
+        "latitude": -3.8149874,
+        "longitude": -38.4801249
+    },
+    "Rua Paula Pessoa 937 Lago Jacarey 60822-200": {
+        "latitude": -3.8039076,
+        "longitude": -38.4856536
+    },
+    "Rua Jos\u00e9 Severiano s/n Sapiranga 60833-610": {
+        "latitude": -3.4670355,
+        "longitude": -40.6783982
+    },
+    "Rua S\u00e3o Jo\u00e3o Del Rey s/n \u00c1gua Fria 60834-452": {
+        "latitude": -3.6678021,
+        "longitude": -38.7156479
+    },
+    "Rua Visconde de Barbacena s/n Lago Jacarey 60822-488": {
+        "latitude": -3.79869,
+        "longitude": -38.48941
+    },
+    "Rua Oleg\u00e1rio Mem\u00f3ria s/n \u00c1gua Fria 60833-045": {
+        "latitude": -3.7910629,
+        "longitude": -38.4696734
+    },
+    "Rua Manoel Mavinier s/n Lagoa Redonda 60835-025": {
+        "latitude": -3.8093987,
+        "longitude": -38.436899
+    },
+    "Rua M\u00e1ximo Linhares 560 Lago Jacarey 60822-482": {
+        "latitude": -3.7991988,
+        "longitude": -38.4911314
+    },
+    "Rua M\u00e1ximo Linhares 570 Lago Jacarey 60822-482": {
+        "latitude": -3.7991098,
+        "longitude": -38.4910082
+    },
+    "Rua S.D.O s/n Cidade dos Funcion\u00e1rios 60810-630": {
+        "latitude": -3.83145,
+        "longitude": -38.54868
+    },
+    "Rua das Oiticicas s/n Passar\u00e9 60743-790": {
+        "latitude": -3.7851537,
+        "longitude": -38.5913589
+    },
+    "Rua 09 s/n Lago Jacarey 60822-000": {
+        "latitude": -3.8174603,
+        "longitude": -38.5705398
+    },
+    "Rua Raimundo Tib\u00farcio 573 Sapiranga 60833-620": {
+        "latitude": -3.7933117,
+        "longitude": -38.4731675
+    },
+    "Rua Francisco Cordeiro 1055 Edson Queiroz 60310-490": {
+        "latitude": -3.7127209,
+        "longitude": -38.5505476
+    },
+    "Avenida Alberto Craveiro s/n Castel\u00e3o 60861-212": {
+        "latitude": -3.7900893,
+        "longitude": -38.5172568
+    },
+    "Rua 03 s/n Lago Jacarey 60821-230": {
+        "latitude": -3.7726201,
+        "longitude": -38.6023748
+    },
+    "Rua Valter Porto 1673 Cambeba 60822-250": {
+        "latitude": -3.8035944,
+        "longitude": -38.4900849
+    },
+    "Rua Margarida de Queiroz 434 Cajazeiras 60822-530": {
+        "latitude": -3.7942592,
+        "longitude": -38.5036244
+    },
+    "Rua Margarida de Queiroz 414 Cajazeiras 60822-530": {
+        "latitude": -3.7943719,
+        "longitude": -38.5036971
+    },
+    "Rua Esmerino Parente s/n \u00c1gua Fria 60822-385": {
+        "latitude": -3.8149874,
+        "longitude": -38.4801249
+    },
+    "Rua Dr. Paulo Sanford s/n \u00c1gua Fria 60834-422": {
+        "latitude": -3.7878041,
+        "longitude": -38.474985
+    },
+    "Rua Manoel Valente s/n Jardim das Oliveiras 60821-505": {
+        "latitude": -3.7886937,
+        "longitude": -38.4954579
+    },
+    "Rua Vicente Lopes s/n Cambeba 60822-100": {
+        "latitude": -3.7905864,
+        "longitude": -38.494961
+    },
+    "Avenida Correia Lima s/n Sapiranga 60833-302": {
+        "latitude": -3.7876613,
+        "longitude": -38.4592776
+    },
+    "Rua Ernesto Monteiro s/n Edson Queiroz 60833-710": {
+        "latitude": -3.793708,
+        "longitude": -38.4707429
+    },
+    "Rua M\u00e1ximo Linhares 612 Lago Jacarey 60822-422": {
+        "latitude": -3.7991628,
+        "longitude": -38.4908951
+    },
+    "Rua Jos\u00e9 Guimar\u00e3es Duque s/n Cambeba 60822-220": {
+        "latitude": -3.8039188,
+        "longitude": -38.4913625
+    },
+    "Rua Stenio Gomes s/n Jardim das Oliveiras 60821-450": {
+        "latitude": -3.7843967,
+        "longitude": -38.4982402
+    },
+    "Rua Desembargador Jos\u00e9 Gil de Carvalho s/n Lago Jacarey 60822-270": {
+        "latitude": -3.8020181,
+        "longitude": -38.490909
+    },
+    "Rua Sapiranga s/n Edson Queiroz 60834-485": {
+        "latitude": -29.6903516,
+        "longitude": -51.1079528
+    },
+    "Rua Candido Portinari s/n Lago Jacarey 60822-170": {
+        "latitude": -3.8019702,
+        "longitude": -38.4841607
+    },
+    "Rua VIII s/n Jardim das Oliveiras 60812-620": {
+        "latitude": -3.729412,
+        "longitude": -38.5995779
+    },
+    "Rua Nestor Fontenele Vasconcelos 350 Edson Queiroz 60834-355": {
+        "latitude": -3.7836503,
+        "longitude": -38.4779395
+    },
+    "Rua Jo\u00e3o Leonel 1054 Cidade dos Funcion\u00e1rios 60822-469": {
+        "latitude": -3.8004075,
+        "longitude": -38.4971672
+    },
+    "Rua Raimundo Tib\u00farcio s/n Sapiranga 60833-520": {
+        "latitude": -3.7708965,
+        "longitude": -38.5291912
+    },
+    "Rua Salvador Correia de S\u00e1 1511 Sapiranga 60833-183": {
+        "latitude": -3.8021564,
+        "longitude": -38.4740177
+    },
+    "Avenida Engenheiro Leal Lima Verde s/n Alagadi\u00e7o Novo 60834-385": {
+        "latitude": -3.8018557,
+        "longitude": -38.475206
+    },
+    "Avenida Washigton Soares s/n \u00c1gua Fria 60811-900": {
+        "latitude": -3.8019547,
+        "longitude": -38.4794868
+    },
+    "Avenida Washigton Soares 1650 \u00c1gua Fria 60811-900": {
+        "latitude": -3.7733129,
+        "longitude": -38.4828109
+    },
+    "Rua Lourival Correia de Pinho s/n Cidade dos Funcion\u00e1rios 60821-720": {
+        "latitude": -3.7934175,
+        "longitude": -38.4827035
+    },
+    "Rua Dionisio Alencar J\u00fanior s/n Guajer\u00fa 60840-450": {
+        "latitude": -3.8018214,
+        "longitude": -38.5119653
+    },
+    "Rua Jos\u00e9 Bayma s/n Guajer\u00fa 60843-220": {
+        "latitude": -3.8304478,
+        "longitude": -38.4814503
+    },
+    "Avenida Engenheiro Leal Lima Verde 1261 Alagadi\u00e7o Novo 60834-385": {
+        "latitude": -3.8009419,
+        "longitude": -38.4749098
+    },
+    "Rua Norte - Sul s/n Edson Queiroz 60834-275": {
+        "latitude": -3.762682,
+        "longitude": -38.508942
+    },
+    "Rua Lino Conde s/n Cidade dos Funcion\u00e1rios 60822-245": {
+        "latitude": -3.7999777,
+        "longitude": -38.4810421
+    },
+    "Rua Pinheiro Maia s/n Cidade dos Funcion\u00e1rios 60822-270": {
+        "latitude": -3.7913007,
+        "longitude": -38.4975152
+    },
+    "Rua Homem de Melo s/n Messejana 60822-345": {
+        "latitude": -3.8150733,
+        "longitude": -38.4914674
+    },
+    "Rua Celeste Arruda s/n Edson Queiroz 60834-455": {
+        "latitude": -3.7877093,
+        "longitude": -38.4678362
+    },
+    "Rua Jos\u00e9 Guimar\u00e3es Duque s/n Cambeba 60824-138": {
+        "latitude": -3.76292,
+        "longitude": -38.529955
+    },
+    "Rua Angra dos Reis s/n Cidade dos Funcion\u00e1rios 60833-590": {
+        "latitude": -3.7481502,
+        "longitude": -38.497596
+    },
+    "Rua Raul Souza Gir\u00e3o 186 Lago Jacarey 60822-332": {
+        "latitude": -3.8025522,
+        "longitude": -38.4866048
+    },
+    "Rua Rafael Tobias s/n Sapiranga 60833-196": {
+        "latitude": -3.8000915,
+        "longitude": -38.4719211
+    },
+    "Rua Araripe J\u00fanior s/n Cambeba 60822-205": {
+        "latitude": -3.8092622,
+        "longitude": -38.4803078
+    },
+    "Rua M\u00e1rio Alencar Araripe 1561 Alagadi\u00e7o Novo 60830-025": {
+        "latitude": -3.8024129,
+        "longitude": -38.477488
+    },
+    "Avenida Washigton Soares s/n Messejana 60871-351": {
+        "latitude": -3.8019547,
+        "longitude": -38.4794868
+    },
+    "Avenida Presidente Artur Bernardes s/n Cidade dos Funcion\u00e1rios 60833-301": {
+        "latitude": -3.7950099,
+        "longitude": -38.471496
+    },
+    "Rua Jos\u00e9 Alves Cavalcante s/n Cidade dos Funcion\u00e1rios 60822-570": {
+        "latitude": -3.8817909,
+        "longitude": -38.5148569
+    },
+    "Rua M\u00e1rio Mamede s/n Bairro de F\u00e1tima 60415-000": {
+        "latitude": -3.7521606,
+        "longitude": -38.5280636
+    },
+    "Rua Uberl\u00e2ndia 800 Messejana 60871-110": {
+        "latitude": -3.835346,
+        "longitude": -38.4965333
+    },
+    "Rua Valdemar de Alcantara 661 Alagadi\u00e7o Novo 60863-345": {
+        "latitude": -3.8073629,
+        "longitude": -38.4951411
+    },
+    "Avenida Edilson Brasil Soares s/n \u00c1gua Fria 60833-351": {
+        "latitude": -3.7886991,
+        "longitude": -38.4721355
+    },
+    "Rua Guaruj\u00e1 400 Messejana 60871-100": {
+        "latitude": -3.7104741,
+        "longitude": -38.6562306
+    },
+    "Avenida Dep. Joaquim Figueiredo Correia 459 Lago Jacarey 60822-360": {
+        "latitude": -3.8019326,
+        "longitude": -38.4941961
+    },
+    "Rua Solon Farias s/n Lago Jacarey 60833-510": {
+        "latitude": -3.7991719,
+        "longitude": -38.476266
+    },
+    "Rua Aloisio Barros Leal s/n Cidade dos Funcion\u00e1rios 60822-065": {
+        "latitude": -3.7885708,
+        "longitude": -38.49171
+    },
+    "Rua Miguel Couto 189 Paupina 60872-665": {
+        "latitude": -3.8400307,
+        "longitude": -38.4921679
+    },
+    "Rua Crisanto Moreira da Rocha s/n Sapiranga 60822-305": {
+        "latitude": -3.7992499,
+        "longitude": -38.4807608
+    },
+    "Rua Salvador Correia de S\u00e1 s/n \u00c1gua Fria 60833-183": {
+        "latitude": -3.7970107,
+        "longitude": -38.4747091
+    },
+    "Rua Salvador Correia de S\u00e1 701 \u00c1gua Fria 60833-183": {
+        "latitude": -3.794666,
+        "longitude": -38.474699
+    },
+    "Rua Manoel Giffoni 69 Lagoa Redonda 60831-020": {
+        "latitude": -3.8296907,
+        "longitude": -38.4594409
+    },
+    "Rua M\u00e1rio Alencar Araripe 1381 Sapiranga 60830-025": {
+        "latitude": -3.8003852,
+        "longitude": -38.4776759
+    }
+}

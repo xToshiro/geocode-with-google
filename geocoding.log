@@ -1,0 +1,70 @@
+2024-04-04 21:39:09,194:INFO:====== WebDriver manager ======
+2024-04-04 21:39:11,155:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 21:39:55,059:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 21:40:38,063:INFO:There is no [win64] edgedriver "123.0.2420.65" for browser edge "123.0.2420" in cache
+2024-04-04 21:40:38,063:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 21:41:21,294:INFO:About to download new driver from https://msedgedriver.azureedge.net/123.0.2420.65/edgedriver_win64.zip
+2024-04-04 21:42:04,403:INFO:Driver downloading response is 200
+2024-04-04 21:42:11,086:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 21:42:54,271:INFO:Driver has been saved in cache [C:\Users\jairo\.wdm\drivers\edgedriver\win64\123.0.2420.65]
+2024-04-04 21:42:55,798:INFO:WebDriver session started.
+2024-04-04 21:42:55,799:INFO:Cache file not found or corrupted. Creating a new one.
+2024-04-04 21:52:27,635:INFO:====== WebDriver manager ======
+2024-04-04 21:52:29,313:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 21:53:13,237:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 21:53:55,952:INFO:Driver [C:\Users\jairo\.wdm\drivers\edgedriver\win64\123.0.2420.65\msedgedriver.exe] found in cache
+2024-04-04 21:53:57,185:INFO:WebDriver session started.
+2024-04-04 21:53:57,425:INFO:Creating a new cache file.
+2024-04-04 21:56:20,332:INFO:Address 'Avenida Desembargador Manoel Sales de Andrade s/n Luciano Cavalcante 60810-195' found in cache.
+2024-04-04 21:59:46,893:INFO:====== WebDriver manager ======
+2024-04-04 21:59:48,496:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 22:00:32,462:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 22:01:15,267:INFO:Driver [C:\Users\jairo\.wdm\drivers\edgedriver\win64\123.0.2420.65\msedgedriver.exe] found in cache
+2024-04-04 22:01:16,343:INFO:WebDriver session started.
+2024-04-04 22:01:16,411:INFO:Creating a new cache file.
+2024-04-04 22:03:42,748:INFO:Address 'Avenida Desembargador Manoel Sales de Andrade s/n Luciano Cavalcante 60810-195' found in cache.
+2024-04-04 22:07:22,283:INFO:====== WebDriver manager ======
+2024-04-04 22:07:23,894:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 22:08:07,726:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 22:10:53,749:INFO:New cache file created.
+2024-04-04 22:11:36,268:INFO:====== WebDriver manager ======
+2024-04-04 22:11:38,147:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 22:12:21,909:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 22:13:04,608:INFO:Driver [C:\Users\jairo\.wdm\drivers\edgedriver\win64\123.0.2420.65\msedgedriver.exe] found in cache
+2024-04-04 22:13:07,276:INFO:WebDriver session started.
+2024-04-04 22:15:37,806:INFO:Address 'Avenida Desembargador Manoel Sales de Andrade s/n Luciano Cavalcante 60810-195' found in cache.
+2024-04-04 22:17:48,076:INFO:Address 'Avenida da Saudade s/n Passaré 60861-330' found in cache.
+2024-04-04 22:17:48,158:INFO:Address 'Avenida da Saudade s/n Passaré 60861-330' found in cache.
+2024-04-04 22:17:48,244:INFO:Address 'Avenida da Saudade s/n Passaré 60861-330' found in cache.
+2024-04-04 22:17:53,088:INFO:Address 'Rua Recanto Verde s/n Jangurussu 60870-520' found in cache.
+2024-04-04 22:17:57,404:INFO:Address 'Rua Florêncio Fontenele s/n Jangurussu 60865-000' found in cache.
+2024-04-04 22:24:14,521:INFO:====== WebDriver manager ======
+2024-04-04 22:24:16,200:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 22:25:00,025:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 22:25:42,853:INFO:Driver [C:\Users\jairo\.wdm\drivers\edgedriver\win64\123.0.2420.65\msedgedriver.exe] found in cache
+2024-04-04 22:25:43,911:INFO:WebDriver session started.
+2024-04-04 22:34:46,862:INFO:====== WebDriver manager ======
+2024-04-04 22:34:48,241:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 22:35:32,047:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 22:36:14,827:INFO:Driver [C:\Users\jairo\.wdm\drivers\edgedriver\win64\123.0.2420.65\msedgedriver.exe] found in cache
+2024-04-04 22:36:15,837:INFO:WebDriver session started.
+2024-04-04 22:39:53,052:INFO:====== WebDriver manager ======
+2024-04-04 22:39:54,804:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 22:40:38,618:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 22:41:21,270:INFO:Driver [C:\Users\jairo\.wdm\drivers\edgedriver\win64\123.0.2420.65\msedgedriver.exe] found in cache
+2024-04-04 22:41:22,300:INFO:WebDriver session started.
+2024-04-04 23:10:18,861:INFO:====== WebDriver manager ======
+2024-04-04 23:10:20,480:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 23:11:04,538:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 23:11:47,393:INFO:Driver [C:\Users\jairo\.wdm\drivers\edgedriver\win64\123.0.2420.65\msedgedriver.exe] found in cache
+2024-04-04 23:11:48,508:INFO:WebDriver session started.
+2024-04-04 23:20:22,287:INFO:====== WebDriver manager ======
+2024-04-04 23:20:24,335:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 23:21:07,325:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 23:21:50,303:INFO:Driver [C:\Users\jairo\.wdm\drivers\edgedriver\win64\123.0.2420.65\msedgedriver.exe] found in cache
+2024-04-04 23:21:51,432:INFO:WebDriver session started.
+2024-04-04 23:35:41,990:INFO:====== WebDriver manager ======
+2024-04-04 23:35:43,715:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 23:36:26,727:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 23:37:09,481:INFO:Driver [C:\Users\jairo\.wdm\drivers\edgedriver\win64\123.0.2420.65\msedgedriver.exe] found in cache
+2024-04-04 23:37:10,586:INFO:WebDriver session started.

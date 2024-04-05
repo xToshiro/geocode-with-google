@@ -1,32 +1,35 @@
 # geocode-with-google
-## v1.5
-### Automated Geocoding with Selenium and Pandas
+## v2.0
+### Automated Geocoding with Selenium, Pandas, and Tkinter Interface
 
-This project automates the process of geocoding addresses using Google Maps through the Selenium WebDriver. It reads addresses from an Excel spreadsheet, queries Google Maps to retrieve the latitude and longitude for each address, and updates the spreadsheet with these coordinates. Additionally, the project utilizes a caching mechanism to speed up the process by avoiding repeated queries for the same address, and logs the process for monitoring and debugging purposes. Version 1.5 introduces optimizations and improvements for better performance and reliability.
+This project enhances the process of automated geocoding by incorporating a graphical user interface (GUI), allowing for an interactive and user-friendly experience. Building upon the capabilities introduced in version 1.5, version 2.0 integrates a Tkinter-based interface to select input files and columns for geocoding directly through the GUI. It continues to use Google Maps via Selenium WebDriver for fetching latitude and longitude data for addresses found in an Excel spreadsheet. This version also maintains the caching mechanism to avoid redundant queries and includes detailed logging for monitoring and troubleshooting.
 
-#### What's New in v1.5
+#### What's New in v2.0
 
-- **Optimized Selenium WebDriver Loading**: Reuses an existing WebDriver session if available, speeding up the initialization process.
-- **Error Handling and Retries**: Implements retry logic in the geocoding function to handle temporary failures, making the script more robust against errors.
-- **Improved Element Waiting with Selenium**: Replaces fixed time waits with explicit waits, improving the reliability of web page interactions.
+- **Tkinter GUI**: Introduces a graphical user interface for enhanced user interaction, making it easier to select input files and specify columns for address data.
+- **Dynamic Column Selection**: Users can now select the address columns directly from the interface using checkboxes, improving flexibility and ease of use.
+- **Live Status Updates**: The GUI provides live status updates during the data preparation and geocoding process, enhancing transparency and user feedback.
+- **Improved Design and Usability**: Adjustments to the interface design for better spacing, readability, and overall user experience.
+- **Stop Geocoding Feature**: Adds the ability to interrupt the geocoding process, allowing users more control during execution.
+- **Executable Version**: An executable version of the code has been created using PyInstaller and is available in the `dist` directory under the name `geocode-with-google-and-seleniumV2.exe`.
 
 ## Features
 
-- **Selenium WebDriver**: Automates browser interaction to query Google Maps.
-- **Pandas**: Manages and updates Excel spreadsheets.
-- **Caching**: Reduces the number of queries to Google Maps by caching addresses.
-- **Logging**: Provides a log file of the geocoding process for troubleshooting.
-- **Error Handling and Retries**: Enhances stability by retrying failed geocode fetches.
-- **Optimized WebDriver Management**: Increases efficiency by reusing the WebDriver session.
+- **Selenium WebDriver**: Automates browser interactions to query Google Maps for geocoding.
+- **Pandas**: Manages and updates Excel spreadsheets with geocoded data.
+- **Tkinter GUI**: Offers a user-friendly interface for file selection and column configuration.
+- **Caching**: Utilizes a caching system to minimize redundant geocoding queries.
+- **Logging**: Detailed logging of the geocoding process to facilitate debugging.
+- **Configurable Address Columns**: Users can select address columns via the GUI for flexible data handling.
 
 ## Requirements
 
-To run this project, you will need Python 3.6 or newer. All dependencies are listed in `requirements.txt`, including:
+To run this project, you need Python 3.6 or newer. All dependencies are listed in `requirements.txt`, including:
 
 - Selenium
 - Pandas
 - Webdriver-Manager
-- tqdm
+- Tkinter (usually included with Python)
 
 ## Setup
 
@@ -47,28 +50,22 @@ To run this project, you will need Python 3.6 or newer. All dependencies are lis
     pip install -r requirements.txt
     ```
 
-## Configuration
+## Running the Application
 
-Before running the script, you must configure the following settings in the script:
+Launch the application by executing:
 
-- `INPUT_FILE`: Path to the input Excel file containing addresses.
-- `OUTPUT_FILE`: Path to the output Excel file where results will be saved.
-- `LOG_FILE`: Path to the log file for the geocoding process.
-- `CACHE_FILE`: Path to the cache file to store geocoded addresses.
-- `ADDRESS_COLUMN_NAMES`: List of column names in the input file that contain the address information.
-
-## Running the Script
-
-To start the geocoding process, execute:
-
-python geocode-with-google-and-selenium.py
+python geocode-with-google-and-seleniumV2.py
 
 
-Ensure your input Excel file is correctly formatted and located at the path specified in `INPUT_FILE`. The script will update the `OUTPUT_FILE` with latitude, longitude, and a processed flag for each address.
+Alternatively, you can run the executable version from the `dist` directory without needing to install Python or any dependencies:
+
+./dist/geocode-with-google-and-seleniumV2/geocode-with-google-and-seleniumV2.exe
+
+The GUI will prompt you to select an input Excel file and the address columns for geocoding. After configuration, click "Start Geocoding" to initiate the process. The application will update the selected output file with latitude, longitude, and processing status for each address.
 
 ## Contributing
 
-Contributions to improve the script or address any issues are welcome. Please feel free to submit a pull request or open an issue in the repository.
+Contributions are welcome to further enhance the application, address any issues, or improve its features. Feel free to submit pull requests or open issues in the repository.
 
 ## License
 

@@ -1,0 +1,36 @@
+2024-04-04 23:49:22,656:INFO:====== WebDriver manager ======
+2024-04-04 23:49:25,672:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 23:50:08,775:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 23:50:51,690:INFO:Driver [C:\Users\jairo\.wdm\drivers\edgedriver\win64\123.0.2420.65\msedgedriver.exe] found in cache
+2024-04-04 23:50:52,913:INFO:WebDriver session started.
+2024-04-04 23:50:52,914:INFO:New cache file created.
+2024-04-04 23:53:26,080:INFO:====== WebDriver manager ======
+2024-04-04 23:53:28,459:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 23:54:11,450:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 23:54:55,377:INFO:Driver [C:\Users\jairo\.wdm\drivers\edgedriver\win64\123.0.2420.65\msedgedriver.exe] found in cache
+2024-04-04 23:54:56,598:INFO:WebDriver session started.
+2024-04-04 23:56:44,329:INFO:====== WebDriver manager ======
+2024-04-04 23:56:46,474:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 23:57:29,279:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-04 23:58:12,114:INFO:Driver [C:\Users\jairo\.wdm\drivers\edgedriver\win64\123.0.2420.65\msedgedriver.exe] found in cache
+2024-04-04 23:58:13,165:INFO:WebDriver session started.
+2024-04-05 00:01:08,895:INFO:====== WebDriver manager ======
+2024-04-05 00:01:10,373:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-05 00:01:53,186:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-05 00:02:35,994:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-05 00:03:19,021:INFO:About to download new driver from https://msedgedriver.azureedge.net/123.0.2420.65/edgedriver_win64.zip
+2024-04-05 00:04:02,086:INFO:Driver downloading response is 200
+2024-04-05 00:06:37,253:INFO:====== WebDriver manager ======
+2024-04-05 00:06:39,468:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-05 00:07:23,454:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-05 00:08:06,534:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-05 00:08:49,461:INFO:About to download new driver from https://msedgedriver.azureedge.net/123.0.2420.65/edgedriver_win64.zip
+2024-04-05 00:13:18,259:INFO:====== WebDriver manager ======
+2024-04-05 00:13:21,197:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-05 00:13:22,185:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-05 00:13:23,096:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-05 00:13:24,048:INFO:About to download new driver from https://msedgedriver.azureedge.net/123.0.2420.65/edgedriver_win64.zip
+2024-04-05 00:13:24,992:INFO:Driver downloading response is 200
+2024-04-05 00:13:27,350:INFO:Get LATEST edgedriver version for Edge 123.0.2420
+2024-04-05 00:13:28,522:INFO:Driver has been saved in cache [C:\Users\jairo\.wdm\drivers\edgedriver\win64\123.0.2420.65]
+2024-04-05 00:13:30,026:INFO:WebDriver session started.
